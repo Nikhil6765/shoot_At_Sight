@@ -1,7 +1,3 @@
-# THIS CODE WAS WRITTEN IN UNDER 48 HOURS FOR A GAME JAM
-# there is a ton of spaghetti...
-# read at your own risk
-
 import os
 import sys
 import math
